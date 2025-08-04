@@ -73,4 +73,5 @@ Edit
 student-cli-app/
 ├── index.js         # Main CLI application
 ├── package.json     # NPM configuration
+
 └── README.md        # Project documentation
